@@ -1,0 +1,135 @@
+#CSS
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightpink;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+h2 {
+	color: white;
+    text-align: center;
+}
+p {
+  font-family: Arial;
+  font-size: 18px;
+}
+</style>
+</head>
+<body>
+
+<h1>Maria Evelyn Kristina C. Teodoro </h1>
+<h2>09564826640</h2>
+<h2>B62 L30D Lasegovia St. BF Resort Village Talon Dos Las Pinas City</h2>
+<br>
+<h2> Education </h2>
+</br>
+
+<p> <u> Undergraduate (2019-present) </u> </p>
+<p> <b> University of the Phiilippines - Diliman </b> </p>
+<p> <b> Bachelor of Science in Statistics </b> </p>
+<ul> 
+<li> University Scholar - 1st Semester (AY 2019-2020) </li>
+<li> University Scholar - 1st Semester (AY 2020-2021) </li>
+<li> College Scholar - 2nd Semester (AY 2020-2021) </li>
+</ul>
+
+<br>
+</br>
+<p> <u> Senior High School (2017-2019) </u> </p>
+<p> <b> Elizabeth Seton - School Las Pinas </b> </p>
+<p> <b> Accountancy, Business and Management </b> </p>
+<ul> 
+<li> President's Honor List - AY 2017-2018 </li>
+<li> President's Honor List - AY 2018-2019 </li>
+</ul>
+
+<br> 
+</br>
+<p> <u> Junior High High School (2013-2017) </u> </p>
+<p> <b> Las Pinas City National Science High School </b> </p>
+<ul> 
+<li> With Honors - AY 2016-2017 </li>
+<li> Supreme Student Government Service Awardee - AY 2016-2017 </li>
+</ul>
+
+
+<br>
+<h2> Skills </h2>
+<ul>
+<li> Outstanding communication skills obtained through professional learning environments and leadership activities (English and Filipino) </li>
+<li> Experienced in using Microsoft Office (Word, Excel, and Powerpoint) and GSuite (Docs, Sheets,Slides,Forms)</li>
+<li> Basic R Programming </li>
+<li> Basic SAS Programming </li>
+<li> Well-honed research, writing, and copy-editing skills, with meticulous attention to detail </li>
+</br>
+
+
+</body>
+</html>
+
+
+
+
+#HTML
+
+<!DOCTYPE html>
+<html>
+<head> 
+<title>Maria Evelyn Kristina C. Teodoro</title>
+</head>
+<body>
+<style>
+h1 {text-align: center;}
+h2 {text-align: center;}
+</style>
+<h1>Maria Evelyn Kristina C. Teodoro</h1>
+<h2>09564826640</h2>
+<h2>B62 L30D Lasegovia St. BF Resort Village Talon Dos Las Pinas City</h2>
+<br>
+<h2> Education </h2>
+</br>
+<p> <u> Undergraduate (2019-present) </u> </p>
+<p> <b> University of the Phiilippines - Diliman </b> </p>
+<p> <b> Bachelor of Science in Statistics </b> </p>
+<ul> 
+<li> University Scholar - 1st Semester (AY 2019-2020) </li>
+<li> University Scholar - 1st Semester (AY 2020-2021) </li>
+<li> College Scholar - 2nd Semester (AY 2020-2021) </li>
+</ul>
+<br>
+</br>
+<p> <u> Senior High School (2017-2019) </u> </p>
+<p> <b> Elizabeth Seton - School Las Pinas </b> </p>
+<p> <b> Accountancy, Business and Management </b> </p>
+<ul> 
+<li> President's Honor List - AY 2017-2018 </li>
+<li> President's Honor List - AY 2018-2019 </li>
+</ul>
+<br> 
+</br>
+<p> <u> Junior High High School (2013-2017) </u> </p>
+<p> <b> Las Pinas City National Science High School </b> </p>
+<ul> 
+<li> With Honors - AY 2016-2017 </li>
+<li> Supreme Student Government Service Awardee - AY 2016-2017 </li>
+</ul>
+<br>
+<h2> Skills </h2>
+<ul>
+<li> Outstanding communication skills obtained through professional learning environments and leadership activities (English and Filipino) </li>
+<li> Experienced in using Microsoft Office (Word, Excel, and Powerpoint) and GSuite (Docs, Sheets,Slides,Forms)</li>
+<li> Basic R Programming </li>
+<li> Basic SAS Programming </li>
+<li> Well-honed research, writing, and copy-editing skills, with meticulous attention to detail </li>
+</br>
+</body>
+</html>
+
